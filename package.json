@@ -1,0 +1,71 @@
+{
+  "name": "shahdurran-portfolio",
+  "version": "1.0.1",
+  "private": true,
+  "author": {
+    "name": "Fariha Rehman"
+  },
+  "description": "Shah Durran is an highly skilled and motivated individual with more than 3 years of professional experience.",
+  "keywords": [
+    "react",
+    "next",
+    "nextjs",
+    "html",
+    "css",
+    "javascript",
+    "js",
+    "modern-ui",
+    "modern-ux",
+    "portfolio",
+    "framer-motion",
+    "3d-website",
+    "particle-effect"
+  ],
+  
+  "scripts": {
+    "dev": "next dev ",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@next/font": "^13.4.4",
+    "@types/gsap": "^3.0.0",
+    "animejs": "^3.2.2",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^10.12.16",
+    "gsap": "^3.12.5",
+    "next": "13.4.3",
+    "react": "^18.2.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-parallax": "^3.5.1",
+    "react-scroll-parallax": "^3.4.5",
+    "react-spring": "^9.7.3",
+    "react-toastify": "^10.0.5",
+    "react-tsparticles": "^2.9.3",
+    "react-typed": "^2.0.12",
+    "react-vertical-timeline-component": "^3.6.0",
+    "sass": "^1.76.0",
+    "scrollmagic": "^2.0.8",
+    "split-text-js": "^1.0.3",
+    "swiper": "^9.4.0",
+    "tailwind-scrollbar": "^3.0.4",
+    "three": "^0.164.1",
+    "tsparticles": "^2.9.3",
+    "typeface-bebas-neue": "^1.1.13",
+    "typewriter-effect": "^2.21.0",
+    "vanta": "^0.5.24"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.41.0",
+    "eslint-config-next": "^13.4.3",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.5.3"
+  }
+}
